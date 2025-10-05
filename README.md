@@ -58,5 +58,7 @@ bash scripts/run_all.sh
 ---
 
 ## 👨‍💻 Autores
+- Joana Fernandez  
+- Abril Calatayud  
 - Agustín Gimenez  
-- [otros integrantes del equipo]
+- Martin Crespo
